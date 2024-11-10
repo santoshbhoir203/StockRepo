@@ -1,4 +1,6 @@
--- Create a directory object (ensure the OS directory exists)
+/* Create a directory object (ensure the OS directory exists)
+** Ensure to specify the your local path of your computer where CSV files will be stored.
+*/
 CREATE OR REPLACE DIRECTORY csv_dir AS 'C:\Users\SANTOSH\Desktop\TEST';
 
 -- Grant necessary privileges
