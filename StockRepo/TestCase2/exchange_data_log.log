@@ -1,0 +1,82 @@
+
+
+ LOG file opened at 11/11/24 02:36:39
+
+Total Number of Files=1
+
+Data File: exchange_data.csv
+
+Log File: exchange_data_log.log
+
+
+
+ LOG file opened at 11/11/24 02:36:39
+
+Bad File: exchange_data_bad.bad
+
+Field Definitions for table EXCHANGE_STOCK_DATA_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Reject rows with all null fields
+  Load when ((USER_ID != BLANKS) AND ((STOCK_ID != BLANKS) AND ((STOCK_NAME != BLANKS) AND (STOCK_COUNT != BLANKS))))
+
+  Fields in Data Source: 
+
+    USER_ID                         CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left
+    STOCK_ID                        CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left
+    STOCK_NAME                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left
+    STOCK_COUNT                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left
+KUP-04102: record 32 discarded from file C:\Users\SANTOSH\Desktop\TEST\exchange_data.csv
+
+
+ LOG file opened at 11/11/24 02:36:39
+
+Total Number of Files=1
+
+Data File: exchange_data.csv
+
+Log File: exchange_data_log.log
+
+
+
+ LOG file opened at 11/11/24 02:36:39
+
+Bad File: exchange_data_bad.bad
+
+Field Definitions for table EXCHANGE_STOCK_DATA_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Reject rows with all null fields
+  Load when ((USER_ID != BLANKS) AND ((STOCK_ID != BLANKS) AND ((STOCK_NAME != BLANKS) AND (STOCK_COUNT != BLANKS))))
+
+  Fields in Data Source: 
+
+    USER_ID                         CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left
+    STOCK_ID                        CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left
+    STOCK_NAME                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left
+    STOCK_COUNT                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left
+KUP-04102: record 32 discarded from file C:\Users\SANTOSH\Desktop\TEST\exchange_data.csv

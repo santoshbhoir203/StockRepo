@@ -1,0 +1,9 @@
+User_ID,Stock_ID,Stock_Name,Stock_Count
+1001,STK001,Apple,50
+1002,STK003,Google,30
+1002,STK004,Amazon,25
+1003,STK003,Google,15
+1004,STK002,Microsoft,50
+1006,STK007,Netflix,45
+1007,STK002,Microsoft,10
+1008,STK001,Apple,60
